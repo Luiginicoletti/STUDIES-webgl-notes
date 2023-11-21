@@ -1,5 +1,4 @@
-# WebGL-notes
-
+# WebGL-notes && my roadmap to creative developer
 
 Primeiramente, este é um assunto já bastante abordado lá fora enquanto pouquíssimos materiais são encontrados traduzidos, então essa será uma nota em **pr-br**.
 _____
