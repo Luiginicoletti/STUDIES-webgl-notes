@@ -19,13 +19,9 @@ Então, aqui comecarei minha caminhada no mundo do **Threejs** e **r3f** que é 
 
 DOC: https://threejs.org/
 
+| Assunto   | Link to notes |
+| --------- | ------------- |
+| Three.js  | Link to note  |
+| R3F       | Link to note  |
 ___
-Three.js notes - link
-React Three Fiber notes - link
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-___
