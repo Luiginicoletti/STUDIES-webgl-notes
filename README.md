@@ -20,7 +20,7 @@ DOC: https://threejs.org/
 
 | Assunto   | Link to notes |
 | --------- | ------------- |
-| Three.js  | Link to note  |
-| R3F       | Link to note  |
+| Three.js  | [Link to note]()  |
+| R3F       | [Link to note]()  |
 ___
 
